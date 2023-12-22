@@ -15,7 +15,11 @@ nav {
   padding: 1em 190px;
   border-bottom: 2px solid black;
   position: sticky;
+  z-index: 100;
   top: 0;
+  right: 0;
+  left: 0;
+  background-color: #ffc107;
 }
 nav div {
   display: flex;
